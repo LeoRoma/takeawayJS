@@ -1,0 +1,26 @@
+{
+  "name": "takeawayJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoRoma/takeawayJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoRoma/takeawayJS/issues"
+  },
+  "homepage": "https://github.com/LeoRoma/takeawayJS#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}

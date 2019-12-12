@@ -12,7 +12,8 @@ describe("Dish", () => {
     expect(pizza.name).toEqual('pizza');
   })
 
-  test('testing test', () => {
-    expect(dish.hello('hello world')).toEqual('hello world');
+  test('add dish price', () => {
+    pizza = new Dish('pizza', 1);
+    expect(pizza.price).toEqual(1);
   })
 });
